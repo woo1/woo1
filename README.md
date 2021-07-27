@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Wooil Jang (in Korean: 장우일), a real human being! :runner:
 
+I was born and grown up in South Korea. After doing some works in Web and iOS, I unwittingly broke into the world of computer vision and started my adventure. This is a place where I keep my open source projects which you might find helpful. 🌱
+
+The projects I’m currently working on are deep learning based image processing applications such as pose estimation, object detection, etc. I am studying deep learning and trying various experiments. You can find them on my [website](https://woo1.github.io/).
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
