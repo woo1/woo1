@@ -7,6 +7,7 @@ The projects I’m currently working on are deep learning based image processing
 
 * [simple guide for image-processing, etc](https://github.com/woo1/simple_guide)
 * [awesome-pose](https://github.com/woo1/awesome-pose)
+* [google spreadsheet, KOSPI, News 연동](https://github.com/woo1/google-apps-script-example)
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
