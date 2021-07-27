@@ -10,7 +10,6 @@ The projects I’m currently working on are deep learning based image processing
 * [google spreadsheet, KOSPI, News 연동](https://github.com/woo1/google-apps-script-example)
 * [Simple Android web-app (한양대학교 도서관 좌석정보)](https://github.com/woo1/Hanyanglib-Android)
 * [Simple iOS web-app (한양대학교 도서관 좌석정보)](https://github.com/woo1/Hanyanglib-ios)
-* [recommendation algorithm](https://github.com/woo1/recommand)
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
