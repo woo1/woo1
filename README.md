@@ -16,6 +16,10 @@ dacon
 - [인공지능 비트 트레이더 경진대회](https://dacon.io/competitions/official/235738/overview/description) 1위 수상
 - [영어 음성 국적 분류 AI 경진대회](https://dacon.io/competitions/official/235709/overview/description) 3위 수상
 
+contribution
+- [smplify-xmc](https://github.com/muelea/smplify-xmc)
+- [mmpose](https://github.com/open-mmlab/mmpose)
+
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
