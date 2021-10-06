@@ -21,6 +21,9 @@ The projects I’m currently working on are deep learning based image processing
 - [mmpose](https://github.com/open-mmlab/mmpose)
 - [가짜연구소 논문미식회 3기](https://www.youtube.com/watch?v=ZM87QcZeM48&list=PLyP9gclj-bv4jrKxhIjbxRAr-9EdWllON)
 
+#### blog
+- https://code.debro.co.kr/
+
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
