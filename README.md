@@ -12,11 +12,11 @@ The projects I’m currently working on are deep learning based image processing
 * [Simple iOS web-app (한양대학교 도서관 좌석정보)](https://github.com/woo1/Hanyanglib-ios)
 * [dacon profile](https://dacon.io/myprofile/414612/home)
 
-dacon 
+## dacon 
 - [인공지능 비트 트레이더 경진대회](https://dacon.io/competitions/official/235738/overview/description) 1위 수상
 - [영어 음성 국적 분류 AI 경진대회](https://dacon.io/competitions/official/235709/overview/description) 3위 수상
 
-contribution
+## contribution
 - [smplify-xmc](https://github.com/muelea/smplify-xmc)
 - [mmpose](https://github.com/open-mmlab/mmpose)
 
