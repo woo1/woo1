@@ -19,6 +19,7 @@ The projects I’m currently working on are deep learning based image processing
 #### contribution
 - [smplify-xmc](https://github.com/muelea/smplify-xmc)
 - [mmpose](https://github.com/open-mmlab/mmpose)
+- [가짜연구소_논문미식회_3기](https://www.youtube.com/watch?v=ZM87QcZeM48&list=PLyP9gclj-bv4jrKxhIjbxRAr-9EdWllON)
 
 <!--
 **woo1/woo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
