@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <img src="https://media.giphy.com/media/l46Cei9gnXaJFGInu/giphy.gif" width="50"> My profile overview:
+![woo1's github stats](https://github-readme-stats.vercel.app/api?username=woo1&show_icons=true)
