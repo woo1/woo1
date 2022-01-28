@@ -17,6 +17,7 @@ The projects I’m currently working on are deep learning based image processing
 - [영어 음성 국적 분류 AI 경진대회](https://dacon.io/competitions/official/235709/overview/description) 3위 수상
 
 #### contribution
+- [Anim-NeRF](https://github.com/JanaldoChen/Anim-NeRF)
 - [smplify-xmc](https://github.com/muelea/smplify-xmc)
 - [mmpose](https://github.com/open-mmlab/mmpose)
 - [One-shot Human Parsing](https://github.com/Charleshhy/One-shot-Human-Parsing)
