@@ -11,7 +11,7 @@
 - [MeshGraphormer](https://github.com/microsoft/MeshGraphormer)
 - [가짜연구소 논문미식회 3기](https://www.youtube.com/watch?v=ZM87QcZeM48&list=PLyP9gclj-bv4jrKxhIjbxRAr-9EdWllON)
 
-#### blog
+#### Tech Blog
 - https://code.debro.co.kr/
 
 #### dacon 
