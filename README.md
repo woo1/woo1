@@ -7,14 +7,6 @@
 #### Interest
 * 2D/3D Pose Estimation
 
-#### contribution
-- [Anim-NeRF](https://github.com/JanaldoChen/Anim-NeRF)
-- [smplify-xmc](https://github.com/muelea/smplify-xmc)
-- [mmpose](https://github.com/open-mmlab/mmpose)
-- [One-shot Human Parsing](https://github.com/Charleshhy/One-shot-Human-Parsing)
-- [MeshGraphormer](https://github.com/microsoft/MeshGraphormer)
-- [가짜연구소 논문미식회 3기](https://www.youtube.com/watch?v=ZM87QcZeM48&list=PLyP9gclj-bv4jrKxhIjbxRAr-9EdWllON)
-
 #### Tech Blog
 - https://code.debro.co.kr/
 
@@ -24,6 +16,15 @@
 * [google spreadsheet, KOSPI, News 연동](https://github.com/woo1/google-apps-script-example)
 * [Simple Android web-app (한양대학교 도서관 좌석정보)](https://github.com/woo1/Hanyanglib-Android)
 * [Simple iOS web-app (한양대학교 도서관 좌석정보)](https://github.com/woo1/Hanyanglib-ios)
+
+#### contribution
+- [Anim-NeRF](https://github.com/JanaldoChen/Anim-NeRF)
+- [smplify-xmc](https://github.com/muelea/smplify-xmc)
+- [mmpose](https://github.com/open-mmlab/mmpose)
+- [One-shot Human Parsing](https://github.com/Charleshhy/One-shot-Human-Parsing)
+- [MeshGraphormer](https://github.com/microsoft/MeshGraphormer)
+- [가짜연구소 논문미식회 3기](https://www.youtube.com/watch?v=ZM87QcZeM48&list=PLyP9gclj-bv4jrKxhIjbxRAr-9EdWllON)
+- [mmhuman3d](https://github.com/open-mmlab/mmhuman3d)
 
 #### dacon 
 - [인공지능 비트 트레이더 경진대회](https://dacon.io/competitions/official/235738/overview/description) 1위 수상
